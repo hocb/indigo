@@ -1,6 +1,6 @@
 # main text of home
-name: Demo account
-bio: my new tagline
+name: James Ho
+bio: Seeking Avalon
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -11,7 +11,7 @@ external-image: false
 picture: assets/images/analytics.jpg
 
 url: https://hupilidemo.github.io/indigo
-# your url: http://USERNAME.github.io
+# your url: https://hocb.github.io/
 
 permalink: /:title/
 
